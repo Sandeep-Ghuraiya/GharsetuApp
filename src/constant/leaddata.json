@@ -1,0 +1,125 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "address": "Indore",
+      "area": "Indore",
+      "clientBudget": "10000",
+      "email": "sandy1@gmail.com",
+      "fullName": "Aarav Mehta",
+      "lookingFor": "buy",
+      "phone": "9788000101",
+      "createdAt": "2024-11-01"
+    },
+    {
+      "id": 2,
+      "address": "Indore",
+      "area": "Vijay Nagar",
+      "clientBudget": "15000",
+      "email": "sandy2@gmail.com",
+      "fullName": "Riya Sharma",
+      "lookingFor": "sell",
+      "phone": "9788000102",
+      "createdAt": "2024-11-02"
+    },
+    {
+      "id": 3,
+      "address": "Indore",
+      "area": "Palasia",
+      "clientBudget": "12000",
+      "email": "sandy3@gmail.com",
+      "fullName": "Kabir Patel",
+      "lookingFor": "buy",
+      "phone": "9788000103",
+      "createdAt": "2024-11-03"
+    },
+    {
+      "id": 4,
+      "address": "Indore",
+      "area": "Bhawarkua",
+      "clientBudget": "18000",
+      "email": "sandy4@gmail.com",
+      "fullName": "Anika Joshi",
+      "lookingFor": "sell",
+      "phone": "9788000104",
+      "createdAt": "2024-11-04"
+    },
+    {
+      "id": 5,
+      "address": "Indore",
+      "area": "Rajwada",
+      "clientBudget": "9000",
+      "email": "sandy5@gmail.com",
+      "fullName": "Vihaan Gupta",
+      "lookingFor": "buy",
+      "phone": "9788000105",
+      "createdAt": "2024-11-05"
+    },
+    {
+      "id": 6,
+      "address": "Indore",
+      "area": "MG Road",
+      "clientBudget": "25000",
+      "email": "sandy6@gmail.com",
+      "fullName": "Ishita Singh",
+      "lookingFor": "sell",
+      "phone": "9788000106",
+      "createdAt": "2024-11-06"
+    },
+    {
+      "id": 7,
+      "address": "Indore",
+      "area": "Indore",
+      "clientBudget": "13000",
+      "email": "sandy7@gmail.com",
+      "fullName": "Reyansh Verma",
+      "lookingFor": "buy",
+      "phone": "9788000107",
+      "createdAt": "2024-11-07"
+    },
+    {
+      "id": 8,
+      "address": "Indore",
+      "area": "Vijay Nagar",
+      "clientBudget": "17000",
+      "email": "sandy8@gmail.com",
+      "fullName": "Meera Kulkarni",
+      "lookingFor": "sell",
+      "phone": "9788000108",
+      "createdAt": "2024-11-08"
+    },
+    {
+      "id": 9,
+      "address": "Indore",
+      "area": "Palasia",
+      "clientBudget": "11000",
+      "email": "sandy1@gmail.com",
+      "fullName": "Arjun Reddy",
+      "lookingFor": "buy",
+      "phone": "9788000109",
+      "createdAt": "2024-11-09"
+    },
+    {
+      "id": 10,
+      "address": "Indore",
+      "area": "Bhawarkua",
+      "clientBudget": "16000",
+      "email": "sandy90@gmail.com",
+      "fullName": "Saanvi Nair",
+      "lookingFor": "sell",
+      "phone": "9788000110",
+      "createdAt": "2024-11-10"
+    },
+    {
+      "id": 11,
+      "address": "Indore",
+      "area": "Rajwada",
+      "clientBudget": "14000",
+      "email": "sandy12@gmail.com",
+      "fullName": "Devansh Shah",
+      "lookingFor": "buy",
+      "phone": "9788000111",
+      "createdAt": "2024-11-11"
+    }
+  ]
+}

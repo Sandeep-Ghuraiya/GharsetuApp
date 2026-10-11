@@ -1,0 +1,13 @@
+{
+  "list": [
+    {"status": "New", "value": "new"},
+    {"status": "Contacted", "value": "contacted"},
+    {"status": "Interested", "value": "interested"},
+    {"status": "Site Visit Scheduled", "value": "site_visit_scheduled"},
+    {"status": "Site Visit Done", "value": "site_visit_done"},
+    {"status": "Negotiation", "value": "negotiation"},
+    {"status": "Converted", "value": "converted"},
+    {"status": "Lost", "value": "lost"},
+    {"status": "Spam", "value": "spam"}
+  ]
+}

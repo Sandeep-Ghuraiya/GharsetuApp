@@ -31,8 +31,71 @@
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>We use Apple Music access to play audio content that enhances your in-app experience.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Bluetooth is used to connect and communicate with nearby supported devices for seamless functionality.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Bluetooth access helps connect with external accessories to improve app features.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Calendar access allows you to view, manage, and sync important events directly from the app.</string>
+	<key>NSCalendarsWriteOnlyAccessUsageDescription</key>
+	<string>This allows the app to add events to your calendar for reminders and scheduling.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>The camera is used to capture photos or scan information required for app features.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Contacts access helps you quickly connect, share, or select people within the app.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Face ID provides a secure and fast way to authenticate and protect your account.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Location access enables location-based features and improves service accuracy.</string>
+	<key>NSLocationTemporaryUsageDescriptionDictionary</key>
+	<dict>
+		<key>LocationPurpose</key>
+		<string>Your location is temporarily used to enable specific features while the app is in use.</string>
+	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string>Your location is used only while the app is open to provide relevant functionality.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone access allows audio recording and voice-based features within the app.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Motion data helps improve activity-based features and overall app performance.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This allows the app to save images or files to your photo library.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Photo library access lets you select images to upload or use inside the app.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Reminders access lets you create and manage reminders for important tasks.</string>
+	<key>NSSiriUsageDescription</key>
+	<string>Siri integration allows you to use voice shortcuts for faster actions.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Speech recognition enables voice commands and hands-free interaction.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>This helps us provide a better experience by showing relevant content and improving app performance.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>FontAwesome6_Brands.ttf</string>
+		<string>FontAwesome6_Regular.ttf</string>
+		<string>FontAwesome6_Solid.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Fontisto.ttf</string>
+		<string>Lucide.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>MaterialDesignIcons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>Zocial.ttf</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
